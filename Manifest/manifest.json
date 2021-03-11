@@ -7,8 +7,8 @@
   "developer": {
     "name": "University of Contoso",
     "websiteUrl": "https://www.Contoso.com",
-    "privacyUrl": "https://www.Contoso.com",
-    "termsOfUseUrl": "www.Contoso.com"
+    "privacyUrl": "https://privacy.microsoft.com/en-gb/privacystatement",
+    "termsOfUseUrl": "https://www.microsoft.com/en-us/legal/intellectualproperty/copyright"
   },
   "icons": {
     "outline": "Outline.png",
